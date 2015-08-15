@@ -2,7 +2,7 @@
 	MIT License http://www.opensource.org/licenses/mit-license.php
 	Author Tobias Koppers @sokra
 */
-var coffee = require("coffee-script");
+var coffee = require("coffee-script-void");
 var loaderUtils = require("loader-utils");
 module.exports = function(source) {
 	this.cacheable && this.cacheable();
