@@ -1,11 +1,11 @@
 {
-	"name": "coffee-void-loader",
+	"name": "coffee-react-void-loader",
 	"version": "0.7.3",
 	"author": "Dmitry Maganov <vonagam@gmail.com>",
-	"description": "coffee void loader module for webpack",
+	"description": "coffee-react void loader module for webpack",
 	"dependencies": {
 		"loader-utils": "0.2.x",
-		"coffee-script-void": "1.x"
+		"coffee-react-void": "1.x"
 	},
 	"repository": {
 		"type": "git",
